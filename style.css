@@ -4,7 +4,6 @@ html, body {
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgba(88, 47, 0, 1);
     text-align: center;
     justify-content: space-around;
@@ -28,7 +27,6 @@ footer{
   height: 100px;
   width: 100%;
   background-color:antiquewhite;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgba(88, 47, 0, 1);
   font-size: 200%;
 }
@@ -55,7 +53,6 @@ img{
 }
 
 .a1 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgba(246, 244, 228, 1);
   font-size: 100%;
 }
@@ -78,12 +75,10 @@ img{
 }
 
 .text-1{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgba(88, 47, 0, 1, 1);
 }
 
 .text-2{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgb(45, 24, 0);
   text-align: center;
 }
@@ -91,7 +86,6 @@ img{
 .text-3{
   font-size: 500%;
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgb(246, 244, 228); 
 }
 
@@ -216,7 +210,6 @@ img{
 /*элементы, которые вставляются в соотв. контейнеры*/
 .topper {
     background-image: url(yellow_bubbles.jpg);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgba(88, 47, 0, 1);
     border: 0;
     display: flex;
@@ -230,7 +223,6 @@ img{
 
   .btn-new {
     cursor: pointer;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 150%;
     color: rgba(88, 47, 0, 1);
     text-align: center;
@@ -255,7 +247,6 @@ img{
 
   .write-line{
     width: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:rgb(246, 244, 228);
     font-size: 200%;
     text-align: center;
