@@ -83,6 +83,8 @@ img{
   .btn-new {
     font-family: "Comfortaa", sans-serif;
     display: inline-block;
+    padding: 5%;
+    font-weight: bold;
     cursor: pointer;
     margin-top: 10%;
     font-size: 150%;
