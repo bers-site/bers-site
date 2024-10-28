@@ -4,6 +4,7 @@ html, body {
 }
 
 body {
+    font-family: "Comfortaa", sans-serif;
     color: rgba(88, 47, 0, 1);
     text-align: center;
     justify-content: space-around;

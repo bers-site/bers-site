@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+  font-family: "Comfortaa", sans-serif;
     color: rgba(246, 244, 228, 1);
     text-align: center;
     justify-content: center;
