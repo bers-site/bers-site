@@ -245,7 +245,6 @@ img{
     color: rgba(88, 47, 0, 1);
     text-align: center;
     border: none;
-    border-radius: 16%;
     text-wrap: wrap;
     box-shadow: 0 5px 15px 0 rgba(246, 244, 228, 1);
     transition: 0.5s;
