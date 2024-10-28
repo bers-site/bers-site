@@ -226,6 +226,7 @@ img{
 
   .btn-new {
     font-family: "Comfortaa", sans-serif;
+    display: inline-block;
     cursor: pointer;
     font-size: 150%;
     color: rgba(88, 47, 0, 1);
