@@ -286,6 +286,10 @@ img{
     .container-sections{
       grid-template-columns: repeat(1, 3fr);
     }
+    
+    .footer{
+      margin-top: 25%;
+    }
 
     .write-line{
       font-size: 150%;
