@@ -211,6 +211,7 @@ img{
   
 /*элементы, которые вставляются в соотв. контейнеры*/
 .topper {
+  font-family: "Comfortaa", sans-serif;
     background-image: url(yellow_bubbles.jpg);
     color: rgba(88, 47, 0, 1);
     border: 0;
@@ -224,6 +225,7 @@ img{
   }
 
   .btn-new {
+    font-family: "Comfortaa", sans-serif;
     cursor: pointer;
     font-size: 150%;
     color: rgba(88, 47, 0, 1);
